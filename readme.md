@@ -8,7 +8,7 @@ Right now it's only a list, but I might expand on some of these points if more c
 
 Good developers understand their code and the environment it lives in
 ---------------------------------------------------------------------
-* Good developers understand the code they are writing and it's implications
+* Good developers understand the code they are writing and its implications
 * Bad developers cargo cult other people's code without understanding the reasoning behind the patterns used
 * Very bad developers copy code without understanding how it works
 * Good developers understand that writing code is chosing between trade offs and know there is no perfect code. The main trade offs are between the following axis
