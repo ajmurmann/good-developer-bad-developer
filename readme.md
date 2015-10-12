@@ -37,7 +37,7 @@ Good developers communicate
   * When a design decision will have long term consequences and more smart people should weigh in
 * Bad developers waste time being stuck when others could have helped them
 * Bad developers unilaterally make long term design decisions that they aren't sure about
-* Good developers are eager to share heir knowledge
+* Good developers are eager to share their knowledge
 * Bad developers are interested in looking smarter than other people on their team
 * Great developers can explain different solutions the team might want to consider to product managers and designers 
 * Bad developers get frustrated with product managers and designers
